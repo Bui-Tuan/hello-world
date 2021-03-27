@@ -4,7 +4,7 @@ import pygame
 from pygame.locals import *
 from typing import List, Optional, Tuple
 
-
+from Bietnam with love
 Cell = Tuple[int, int]
 Cells = List[int]
 Grid = List[Cells]
